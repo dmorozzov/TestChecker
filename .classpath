@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.eclipse.swt.org.eclipse.swt.win32.win32.x86.4.3.swt:org.eclipse.swt.win32.win32.x86:4.3"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.apache.poi:poi:3.14"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: commons-codec:commons-codec:1.10"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.apache.poi:poi-ooxml:3.14"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: com.github.virtuald:curvesapi:1.03"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.apache.poi:poi-ooxml-schemas:3.14"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.apache.poi:poi-scratchpad:3.14"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.apache.xmlbeans:xmlbeans:2.6.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: stax:stax-api:1.0.1"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
